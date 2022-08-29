@@ -41,7 +41,7 @@ body {
 }
 .btn {
     padding: 15px;
-    height: 50px;
+    height: 60px;
     margin-left: 130px;
     background-color: white;
     border: 3px solid rgb(226, 193, 46);
@@ -63,7 +63,7 @@ body {
 }
 .btn1 {
     padding: 15px;
-    height: 50px;
+    height: 60px;
     margin-left: 130px;
     background-color: white;
     border: 3px solid rgba(235, 34, 34, 0.925);
