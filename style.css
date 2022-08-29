@@ -5,8 +5,8 @@ body {
     background-size: cover;
 }
 .box {
-    width: 300px;
-    height: 350px;
+    width: 280px;
+    height: 330px;
     background-color: white;
     margin: auto;
     top: 150px;
@@ -27,7 +27,7 @@ body {
     margin-top: 50px;
 }
 .middle-shadow-box {
-    width: 250px;
+    width: 220px;
     height: 80px;
     background-color: rgba(148, 148, 148, 0.158);
     border-radius: 10px;
